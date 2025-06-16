@@ -18,7 +18,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         
         <!-- SonarCloud Properties - REPLACE THESE VALUES -->
-        <sonar.projectKey>AnTDSE190747_SoftwareTesting_Lab3</sonar.projectKey>
+        <sonar.projectKey>antdse190747-softwaretesting-lab3_TDuckAn_Sonar-Demo-Project</sonar.projectKey>
         <sonar.organization>antdse190747-softwaretesting-lab3</sonar.organization>
     </properties>
 
