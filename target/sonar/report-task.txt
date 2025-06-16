@@ -1,0 +1,7 @@
+organization=antdse190747-softwaretesting-lab3
+projectKey=TDuckAn_Sonar-Demo-Project
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.64502
+dashboardUrl=https://sonarcloud.io/dashboard?id=TDuckAn_Sonar-Demo-Project
+ceTaskId=AZd4ygOjAoH65XLc5MZ9
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZd4ygOjAoH65XLc5MZ9
